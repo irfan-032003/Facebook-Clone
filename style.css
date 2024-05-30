@@ -1,0 +1,79 @@
+.fb{
+    text-align: center;
+}
+
+.lap{
+    margin-right: 60px;
+    margin-left: 60px;
+    margin-top: 80px;
+    
+}
+
+ 
+
+.main-navbar {
+    display: grid;
+    grid-template-columns: 33% 34% 33%;
+    text-align: center;
+  }
+  .if{
+    text-align: center;
+    background-color: rgb(246, 12, 211);
+    margin-left: 90px;
+    margin-right:90px;
+    border-radius: 20px;
+    color: black;
+  }
+  .sand{
+    margin-left: 7px;
+  }
+
+  .img{
+    height: 120px;
+    width: 120px;
+    margin-top: 20px;
+    border: 2px solid black;
+  }
+
+  .gg{
+    display: grid;
+    grid-template-columns: 200px auto;
+    
+  }
+  
+  .feed{
+    margin-left: 130px;
+    margin-right: 80px;
+    margin-top: 20px;
+
+  }
+
+.lo{
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+.pen{
+  width: 50rem;
+  height: 20rem;
+  object-fit:cover;
+  
+}
+
+
+  .hh{
+    padding-top: 60px;
+  }
+
+  .p{
+    margin-top: 20px;
+margin-left: 20px;
+margin-bottom: 5px;
+  }
+
+  
+  .like{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 5px;
+  }
